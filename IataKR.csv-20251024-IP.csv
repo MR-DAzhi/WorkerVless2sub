@@ -1,6 +1,5 @@
 IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络延迟,下载速度
 112.146.187.55,29765,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,92 ms,6567 kB/s
-116.44.53.251,10801,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,100 ms,6081 kB/s
 119.64.242.60,60002,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,87 ms,5846 kB/s
 222.112.191.5,33334,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,74 ms,5818 kB/s
 112.165.11.40,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,89 ms,5581 kB/s
@@ -18,7 +17,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 182.224.75.12,10325,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,106 ms,4274 kB/s
 183.97.188.34,10800,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,90 ms,4166 kB/s
 220.124.39.201,10374,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,106 ms,4163 kB/s
-116.44.53.251,12211,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,100 ms,4091 kB/s
 218.147.4.56,30019,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,119 ms,3971 kB/s
 121.135.22.254,10333,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,118 ms,3828 kB/s
 112.167.163.6,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,75 ms,3797 kB/s
@@ -40,7 +38,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 220.124.144.20,12142,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,98 ms,2578 kB/s
 220.124.39.201,11300,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,97 ms,2472 kB/s
 218.151.91.131,12151,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,131 ms,2412 kB/s
-117.123.237.115,30013,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms,2396 kB/s
 124.111.222.10,10142,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,87 ms,2360 kB/s
 175.206.226.93,10305,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,91 ms,2252 kB/s
 106.244.201.248,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,95 ms,2224 kB/s
