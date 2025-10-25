@@ -70,7 +70,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 192.0.54.31,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,182 ms,1698 kB/s
 154.37.216.215,16636,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,66 ms,1573 kB/s
 202.85.53.77,7000,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,121 ms,1455 kB/s
-49.238.238.150,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,1389 kB/s
 34.150.80.6,43244,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,224 ms,1318 kB/s
 173.0.92.23,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,185 ms,1212 kB/s
 49.238.238.146,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,180 ms,1132 kB/s
