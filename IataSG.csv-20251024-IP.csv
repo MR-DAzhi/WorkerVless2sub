@@ -14,19 +14,5 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 188.166.182.46,8888,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,283 ms,174 kB/s
 96.9.211.152,8443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,350 ms,157 kB/s
 199.21.175.187,8443,true,SIN,TH,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,175 ms,148 kB/s
-138.2.71.48,48397,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,355 ms,87 kB/s
-128.199.128.28,123,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,274 ms,84 kB/s
-61.245.11.69,2053,true,SIN,PH,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,416 ms,78 kB/s
-84.247.149.248,7443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,273 ms,74 kB/s
-61.245.11.227,2053,true,SIN,PH,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,380 ms,72 kB/s
-167.172.88.191,444,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,279 ms,72 kB/s
-38.180.249.123,443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,232 ms,68 kB/s
-140.245.121.225,10258,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,381 ms,65 kB/s
-45.154.26.81,8443,true,SIN,TH,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,150 ms,61 kB/s
-167.172.88.191,993,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,334 ms,56 kB/s
-178.128.107.58,3128,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,282 ms,49 kB/s
-51.79.158.58,2053,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,285 ms,37 kB/s
-143.198.196.196,8443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,266 ms,33 kB/s
-38.244.147.68,2053,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,258 ms,26 kB/s
-138.2.111.60,60007,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,359 ms,20 kB/s
+
 
