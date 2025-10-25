@@ -7,8 +7,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 202.85.53.160,7000,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,121 ms,6997 kB/s
 8.6.112.232,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,178 ms,5715 kB/s
 8.34.146.234,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,168 ms,5631 kB/s
-49.238.238.150,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,173 ms,5597 kB/s
-49.238.238.150,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms,5597 kB/s
 192.0.54.31,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,186 ms,5533 kB/s
 192.0.63.225,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,192 ms,5448 kB/s
 103.51.145.18,8443,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,56 ms,5429 kB/s
@@ -80,7 +78,7 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 49.238.238.151,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,175 ms,1119 kB/s
 43.161.225.160,7417,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,80 ms,1107 kB/s
 45.120.216.34,20000,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,75 ms,1055 kB/s
-117.123.237.115,12266,true,KIX,KR,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,151 ms,1030 kB/s
+
 
 
 
