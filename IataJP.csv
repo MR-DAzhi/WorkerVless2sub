@@ -1,7 +1,7 @@
 IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络延迟,下载速度
-121.80.244.179,32777,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,109 ms
-217.142.236.93,443,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,183 ms
-168.138.46.67,443,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,188 ms
-140.83.57.183,22735,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,202 ms
-64.110.104.30,443,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,202 ms
-168.138.46.115,43138,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,206 ms
+121.80.244.179,32777,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,"🇯🇵",109 ms,
+217.142.236.93,443,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,"🇯🇵",183 ms,
+168.138.46.67,443,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,"🇯🇵",188 ms,
+140.83.57.183,22735,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,"🇯🇵",202 ms,
+64.110.104.30,443,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,"🇯🇵",202 ms,
+168.138.46.115,43138,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,"🇯🇵",206 ms,
