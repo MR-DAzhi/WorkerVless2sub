@@ -1,4 +1,4 @@
-IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网延迟,下载速度										
+IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络延迟,下载速度										
 47.109.82.112,4431,true,HKG,CN,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,33 ms											
 103.44.255.81,443,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,46 ms											
 223.111.179.26,9001,true,HKG,CN,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,47 ms											
