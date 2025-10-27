@@ -1,5 +1,4 @@
 IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络延迟,下载速度
-154.64.251.12,442,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,66 ms,10145 kB/s
 8.35.211.15,2087,true,SIN,CN,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,108 ms,9406 kB/s
 23.141.12.23,8443,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,106 ms,9179 kB/s
 47.109.82.112,4431,true,HKG,CN,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,29 ms,8363 kB/s
