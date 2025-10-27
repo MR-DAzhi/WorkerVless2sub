@@ -1,6 +1,7 @@
 IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络延迟,下载速度
-43.218.77.16,1443,true,CGK,ID,Asia Pacific,Jakarta,亚洲,印度尼西亚,雅加达,🇮🇩,120 ms,
 45.136.253.18,33273,true,SIN,TH,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,167 ms,
+64.120.92.238,443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,370 ms,
+142.91.102.32,443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,373 ms,
 101.32.168.155,28443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,103 ms,
 140.245.121.160,45544,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,356 ms,
 43.163.6.142,30316,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,103 ms,
@@ -60,4 +61,3 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 128.199.128.28,123,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,280 ms,
 152.42.229.132,443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,283 ms,
 167.172.88.191,444,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,283 ms,
-152.42.241.71,8443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,284 ms,
