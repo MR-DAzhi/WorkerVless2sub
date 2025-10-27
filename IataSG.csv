@@ -62,3 +62,5 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 152.42.229.132,443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,283 ms,
 167.172.88.191,444,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,283 ms,
 173.234.15.93,443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,365 ms,
+64.120.92.238,443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,370 ms,
+142.91.102.32,443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,373 ms,
