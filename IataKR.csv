@@ -59,7 +59,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 1.223.156.69,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,117 ms,1249 kB/s
 221.164.141.35,10307,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,84 ms,1214 kB/s
 118.33.229.115,10381,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,97 ms,1180 kB/s
-118.41.27.62,12166,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,125 ms,1156 kB/s
 211.229.243.246,10123,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,98 ms,1099 kB/s
 61.72.176.145,18016,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,146 ms,1049 kB/s
 211.48.30.184,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,88 ms,1006 kB/s
