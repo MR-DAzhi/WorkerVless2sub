@@ -19,3 +19,20 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 60.249.114.181,12461,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,109 ms, kB/s
 60.249.114.181,16022,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,115 ms, kB/s
 103.193.172.5,443,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,328 ms, kB/s
+183.236.51.220,7004,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,53 ms
+120.232.218.93,20201,true,KHH,TW,Asia Pacific,Kaohsiung City,亚洲,台湾,高雄市,🇹🇼,54 ms
+183.236.51.220,7002,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,56 ms
+183.236.51.201,7004,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,63 ms
+183.236.51.201,7002,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,64 ms
+61.220.128.226,43,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,75 ms
+125.227.162.252,12485,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,77 ms
+220.128.110.108,43,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,83 ms
+125.227.162.252,12486,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,85 ms
+114.32.9.249,16443,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,86 ms
+114.32.9.249,51443,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,94 ms
+114.34.202.224,10004,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,128 ms
+123.253.111.240,443,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,257 ms
+103.193.172.5,443,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,343 ms
+60.249.114.181,16022,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,368 ms
+60.249.114.181,10217,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,370 ms
+60.249.114.181,12461,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,375 ms
