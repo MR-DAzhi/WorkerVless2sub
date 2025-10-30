@@ -30,7 +30,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 182.224.75.12,10325,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,90 ms
 61.102.250.123,10999,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,91 ms
 112.133.148.226,20016,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,91 ms
-49.174.170.115,10030,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,92 ms
 43.155.186.100,446,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,92 ms
 182.211.29.41,20085,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,92 ms
 61.102.250.123,10272,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,92 ms
@@ -70,7 +69,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 220.92.20.21,30050,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,106 ms
 220.124.144.20,12142,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,107 ms
 218.147.4.56,30019,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,107 ms
-59.8.196.21,20153,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,107 ms
 112.165.215.157,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,108 ms
 211.194.169.14,12699,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,109 ms
 121.152.118.98,20057,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,109 ms
@@ -132,13 +130,9 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 211.229.243.246,10123,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,126 ms
 222.110.16.126,10405,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,126 ms
 222.104.213.148,12374,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,126 ms
-119.205.235.58,443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,127 ms
 211.197.161.123,10428,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,127 ms
-222.113.18.207,32764,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,127 ms
 220.81.10.138,11103,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,127 ms
-222.113.18.207,10319,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,128 ms
 220.83.182.223,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,128 ms
-222.113.18.207,10225,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,128 ms
 59.6.239.208,10227,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,129 ms
 211.195.83.140,12194,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,131 ms
 61.72.176.145,18016,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,132 ms
