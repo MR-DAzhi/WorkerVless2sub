@@ -116,6 +116,4 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 167.172.88.191,444,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,283 ms,
 173.234.15.93,443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,365 ms,
 36.250.73.115,2087,TRUE,SIN,SG,Asia,Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,100 ms
-8.35.211.15,2087,true,SIN,CN,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,100 ms
-142.91.102.32,443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,399 ms
-173.234.15.93,443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,404 ms
+
