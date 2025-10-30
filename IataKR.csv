@@ -1,65 +1,4 @@
 IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络延迟
-119.64.242.60,60002,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,87 ms,5846 kB/s
-222.112.191.5,33334,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,74 ms,5818 kB/s
-112.165.11.40,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,89 ms,5581 kB/s
-175.207.249.159,50001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,89 ms,5422 kB/s
-121.151.58.209,30017,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,118 ms,5214 kB/s
-182.211.29.41,20085,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,85 ms,4921 kB/s
-59.8.196.21,20153,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,135 ms,4825 kB/s
-106.242.64.238,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,90 ms,4605 kB/s
-220.125.55.47,16012,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,100 ms,4532 kB/s
-59.9.52.28,30009,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,108 ms,4491 kB/s
-182.211.29.41,30023,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,97 ms,4444 kB/s
-222.103.221.171,27002,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,120 ms,4443 kB/s
-220.83.182.223,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,83 ms,4362 kB/s
-182.224.75.12,10325,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,106 ms,4274 kB/s
-183.97.188.34,10800,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,90 ms,4166 kB/s
-220.124.39.201,10374,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,106 ms,4163 kB/s
-218.147.4.56,30019,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,119 ms,3971 kB/s
-121.135.22.254,10333,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,118 ms,3828 kB/s
-112.167.163.6,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,75 ms,3797 kB/s
-112.185.223.152,50001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,88 ms,3755 kB/s
-121.153.128.196,10216,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,88 ms,3689 kB/s
-218.147.66.126,20019,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,89 ms,3614 kB/s
-218.147.68.117,33530,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,84 ms,3588 kB/s
-125.137.215.221,50001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,116 ms,3579 kB/s
-222.110.16.126,10405,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,108 ms,3515 kB/s
-119.203.219.248,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,115 ms,3450 kB/s
-106.242.185.158,32784,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,103 ms,3409 kB/s
-222.104.213.148,33143,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,141 ms,3335 kB/s
-182.211.29.41,22990,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,88 ms,3328 kB/s
-121.178.121.161,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms,3325 kB/s
-112.167.218.150,10155,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,120 ms,2930 kB/s
-220.71.102.124,16626,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,85 ms,2920 kB/s
-211.194.169.14,12699,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,93 ms,2861 kB/s
-115.91.165.115,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,85 ms,2631 kB/s
-220.124.144.20,12142,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,98 ms,2578 kB/s
-220.124.39.201,11300,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,97 ms,2472 kB/s
-218.151.91.131,12151,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,131 ms,2412 kB/s
-124.111.222.10,10142,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,87 ms,2360 kB/s
-175.206.226.93,10305,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,91 ms,2252 kB/s
-106.244.201.248,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,95 ms,2224 kB/s
-220.81.10.138,11103,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,77 ms,2203 kB/s
-115.90.70.246,18983,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,96 ms,2168 kB/s
-112.186.25.177,10062,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,90 ms,2029 kB/s
-221.164.141.35,16078,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,86 ms,1844 kB/s
-220.125.55.47,12251,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,76 ms,1777 kB/s
-121.125.185.13,33403,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,81 ms,1731 kB/s
-220.71.102.124,32783,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,95 ms,1664 kB/s
-211.63.181.106,10370,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,99 ms,1558 kB/s
-121.152.118.98,10337,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,102 ms,1474 kB/s
-211.184.116.84,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,81 ms,1455 kB/s
-27.35.9.57,32776,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,80 ms,1441 kB/s
-222.104.213.148,12374,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,122 ms,1376 kB/s
-112.161.221.228,10051,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,117 ms,1364 kB/s
-119.192.158.53,32779,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,110 ms,1352 kB/s
-112.161.221.228,10384,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,83 ms,1349 kB/s
-1.223.156.69,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,117 ms,1249 kB/s
-221.164.141.35,10307,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,84 ms,1214 kB/s
-118.33.229.115,10381,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,97 ms,1180 kB/s
-211.229.243.246,10123,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,98 ms,1099 kB/s
-61.72.176.145,18016,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,146 ms,1049 kB/s
-211.48.30.184,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,88 ms,1006 kB/s
 123.111.169.70,8443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,68 ms
 123.111.169.70,443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,70 ms
 175.113.29.202,30027,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,73 ms
@@ -214,6 +153,7 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 132.145.81.117,443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,199 ms
 152.70.253.44,443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,203 ms
 140.238.8.92,443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,217 ms
+14.33.140.80,30017,true,LAX,KR,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,239 ms
 111.91.187.73,30021,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,259 ms
 222.113.18.214,12469,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,266 ms
 222.113.18.211,17121,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,271 ms
