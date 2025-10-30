@@ -61,7 +61,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 49.238.238.156,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,175 ms
 49.238.238.149,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,175 ms
 8.34.146.119,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,176 ms
-49.238.238.158,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,176 ms
 49.238.238.159,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,176 ms
 8.34.146.117,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,176 ms
 49.238.238.157,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,176 ms
@@ -92,7 +91,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 49.238.238.152,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,182 ms
 49.238.238.156,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,183 ms
 8.34.146.204,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,183 ms
-8.39.214.50,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,183 ms
 31.185.108.19,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,183 ms
 8.34.146.228,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,184 ms
 8.47.69.20,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,184 ms
@@ -109,7 +107,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 8.34.146.110,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,192 ms
 192.0.63.225,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,194 ms
 34.150.80.6,43244,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,204 ms
-111.20.226.42,16000,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,219 ms
 103.6.235.48,20174,true,HKG,VN,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,234 ms
 160.30.55.42,443,true,HKG,VN,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,298 ms
 46.8.78.122,8443,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,322 ms
