@@ -1,8 +1,6 @@
 IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络延迟
 47.109.82.112,4431,true,HKG,CN,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,32 ms
 103.44.255.81,443,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,47 ms
-46.232.109.220,20116,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,50 ms
-43.100.21.205,20027,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,57 ms
 223.111.179.26,9001,true,HKG,CN,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,58 ms
 38.147.185.203,41207,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,62 ms
 154.37.216.215,16636,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,62 ms
@@ -133,9 +131,7 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 192.142.4.33,2053,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,346 ms
 192.142.4.33,8443,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,347 ms
 194.246.114.6,8443,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,362 ms
-45.196.220.114,8443,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,363 ms
 223.16.138.113,10002,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,364 ms
 194.246.114.6,2053,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,369 ms
 178.253.32.187,1103,true,HKG,MO,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,374 ms
-43.255.118.15,7443,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,394 ms
 58.153.155.98,12345,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,583 ms
