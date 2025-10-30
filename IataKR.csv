@@ -1,9 +1,7 @@
 IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络延迟,下载速度
-112.146.187.55,29765,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,92 ms,6567 kB/s
 119.64.242.60,60002,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,87 ms,5846 kB/s
 222.112.191.5,33334,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,74 ms,5818 kB/s
 112.165.11.40,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,89 ms,5581 kB/s
-211.192.254.96,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,83 ms,5564 kB/s
 175.207.249.159,50001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,89 ms,5422 kB/s
 121.151.58.209,30017,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,118 ms,5214 kB/s
 182.211.29.41,20085,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,85 ms,4921 kB/s
