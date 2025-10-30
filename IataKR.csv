@@ -138,8 +138,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 118.45.138.207,12403,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,140 ms
 116.93.199.28,10323,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,143 ms
 222.113.18.214,10199,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,145 ms
-116.93.199.28,10114,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,147 ms
-116.93.199.28,12136,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,153 ms
 222.113.18.211,10159,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,176 ms
 152.70.253.44,443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,203 ms
 111.91.187.73,30021,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,259 ms
