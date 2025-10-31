@@ -7,7 +7,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 47.130.116.139,443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,106 ms
 20.205.177.152,443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,144 ms
 92.112.20.95,8443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,171 ms
-51.79.158.58,2053,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,183 ms
 84.247.149.247,7443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,185 ms
 139.177.185.196,443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,185 ms
 8.219.198.241,443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,227 ms
@@ -21,7 +20,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 84.247.149.240,7443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,261 ms
 137.220.150.231,443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,263 ms
 139.177.185.196,74,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,281 ms
-51.79.158.58,8443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,284 ms
 84.247.149.248,7443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,284 ms
 194.36.179.17,8443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,345 ms
 96.9.211.152,8443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,347 ms
@@ -44,9 +42,7 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 61.245.11.69,2053,TRUE,SIN,PH,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,369 ms
 159.65.131.86,443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,373 ms
 217.15.160.225,7443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,373 ms
-152.42.241.71,8443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,375 ms
 209.97.172.130,8080,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,376 ms
-178.128.107.58,3128,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,377 ms
 167.172.88.191,444,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,379 ms
 165.22.250.198,443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,379 ms
 158.178.224.184,443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,381 ms
