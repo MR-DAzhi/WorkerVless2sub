@@ -30,7 +30,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 49.238.238.154,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,169 ms
 49.238.238.160,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,169 ms
 8.34.146.19,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,170 ms
-8.34.146.21,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,170 ms
 8.34.146.203,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,170 ms
 8.47.69.85,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,170 ms
 8.47.69.245,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,170 ms
@@ -111,5 +110,4 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 192.142.4.33,2053,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,346 ms
 194.246.114.6,8443,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,362 ms
 194.246.114.6,2053,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,369 ms
-178.253.32.187,1103,true,HKG,MO,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,374 ms
 58.153.155.98,12345,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,583 ms
