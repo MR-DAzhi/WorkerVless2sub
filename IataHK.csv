@@ -40,12 +40,10 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 8.39.204.16,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,173 ms
 8.34.146.203,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,173 ms
 14.33.140.80,30017,true,LAX,KR,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,239 ms
-49.238.238.156,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms
 8.34.146.39,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms
 49.238.238.152,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms
 8.34.146.150,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,175 ms
 8.34.146.242,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,175 ms
-49.238.238.156,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,175 ms
 49.238.238.149,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,175 ms
 8.34.146.119,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,176 ms
 49.238.238.159,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,176 ms
@@ -74,7 +72,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 31.185.108.19,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,181 ms
 49.238.238.159,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,182 ms
 49.238.238.152,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,182 ms
-49.238.238.156,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,183 ms
 8.34.146.204,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,183 ms
 31.185.108.19,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,183 ms
 8.34.146.228,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,184 ms
