@@ -2,3 +2,11 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 118.91.83.231,10108,true,NRT,JP,Asia Pacific,Tokyo,亚洲,日本,东京,🇯🇵,130 ms
 168.138.46.67,443,TRUE,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,197 ms
 121.80.244.179,12333,TRUE,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,209 ms
+103.117.102.171,443,TRUE,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,197 ms
+103.117.103.154,443,TRUE,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,197 ms
+13.112.61.243,443,TRUE,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,197 ms
+52.199.97.56,443,TRUE,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,197 ms
+13.158.141.19,443,TRUE,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,197 ms
+54.95.79.44,443,TRUE,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,197 ms
+185.184.223.55,443,TRUE,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,197 ms
+45.66.217.145,50007,TRUE,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,197 ms
