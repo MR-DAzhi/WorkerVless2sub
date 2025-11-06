@@ -10,6 +10,7 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 125.227.162.252,12486,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,80 ms
 61.220.128.226,43,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,85 ms
 114.32.9.249,16443,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,86 ms
+114.32.9.249,51443,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,86 ms
 114.34.202.224,10004,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,110 ms
 60.249.114.181,10244,true,KHH,TW,Asia Pacific,Kaohsiung City,亚洲,台湾,高雄市,🇹🇼,111 ms
 60.249.114.181,10217,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,114 ms
