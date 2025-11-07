@@ -1,8 +1,5 @@
 IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络延迟
-183.236.51.201,7004,TRUE,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,53 ms
 183.236.51.220,7004,TRUE,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,49 ms
-183.236.51.201,7002,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,54 ms
-183.236.51.201,7001,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,62 ms
 183.236.51.220,7001,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,64 ms
 220.128.110.108,43,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,75 ms
 114.32.9.249,51443,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,76 ms
@@ -21,5 +18,3 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 220.128.110.108,43,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,76 ms
 61.220.128.226,43,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,78 ms
 114.34.202.224,10004,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,101 ms
-
-
