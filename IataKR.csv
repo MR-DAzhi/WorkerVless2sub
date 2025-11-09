@@ -6,7 +6,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 39.121.234.38,10182,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms
 175.113.11.149,10265,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms
 119.65.139.101,60001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms
-211.177.114.117,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms
 218.54.55.117,33037,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,79 ms
 115.91.165.115,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,80 ms
 121.125.185.13,33403,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,80 ms
@@ -21,7 +20,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 58.235.104.145,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,86 ms
 182.211.29.41,22990,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,86 ms
 61.102.250.123,12205,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,88 ms
-211.177.114.117,10435,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,88 ms
 58.239.237.226,10379,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,88 ms
 115.90.70.246,18983,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,90 ms
 182.224.75.12,10325,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,90 ms
@@ -35,7 +33,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 61.102.250.123,10210,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,95 ms
 58.76.69.164,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,97 ms
 121.153.128.196,10216,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,98 ms
-59.9.52.28,30009,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,98 ms
 121.151.58.209,30017,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,98 ms
 183.97.188.34,10800,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,99 ms
 124.111.222.10,10142,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,100 ms
@@ -43,7 +40,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 183.97.196.49,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,101 ms
 112.133.148.226,11008,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,102 ms
 61.102.250.123,10400,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,102 ms
-1.223.156.69,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,103 ms
 112.161.221.228,10051,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,104 ms
 183.78.242.78,11883,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,104 ms
 125.135.43.66,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,104 ms
@@ -78,9 +74,7 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 112.167.218.150,10155,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,115 ms
 121.167.58.196,10554,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,115 ms
 218.147.68.117,33530,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,115 ms
-147.46.120.110,30122,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,116 ms
 59.29.89.197,20114,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,116 ms
-118.33.229.115,10381,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,117 ms
 112.165.11.40,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,117 ms
 211.195.83.140,24844,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,117 ms
 222.104.213.148,12408,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,117 ms
@@ -108,12 +102,9 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 59.6.239.208,10227,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,129 ms
 211.195.83.140,12194,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,131 ms
 61.72.176.145,18016,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,132 ms
-116.93.199.28,10449,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,140 ms
 118.45.138.207,12403,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,140 ms
-116.93.199.28,10323,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,143 ms
 222.113.18.214,10199,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,145 ms
 222.113.18.211,10159,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,176 ms
-152.70.253.44,443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,203 ms
 111.91.187.73,30021,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,259 ms
 222.113.18.214,12469,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,266 ms
 222.113.18.214,12349,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,276 ms
