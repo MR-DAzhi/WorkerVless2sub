@@ -26,7 +26,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 199.21.175.187,2053,TRUE,CGK,ID,Asia Pacific,Jakarta,亚洲,印度尼西亚,雅加达,🇸🇬,126 ms
 103.99.11.193,8443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,145 ms
 45.91.134.225,5060,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,182 ms
-103.117.151.111,2053,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,194 ms
 45.144.167.223,27125,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,195 ms
 199.21.175.187,8443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,206 ms
 45.136.253.18,33273,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,206 ms
