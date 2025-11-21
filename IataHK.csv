@@ -6,7 +6,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 43.135.6.243,60007,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,69 ms
 46.203.124.86,441,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,74 ms
 45.120.216.34,20000,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,78 ms
-202.81.230.146,443,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,97 ms
 202.85.53.77,7000,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,141 ms
 192.0.54.31,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,167 ms
 192.0.54.31,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,167 ms
