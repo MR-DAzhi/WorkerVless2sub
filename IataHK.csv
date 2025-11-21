@@ -1,5 +1,4 @@
 IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络延迟
-47.109.82.112,4431,true,HKG,CN,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,32 ms
 223.111.179.26,9001,true,HKG,CN,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,58 ms
 38.147.185.203,41207,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,62 ms
 38.147.185.203,1776,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,68 ms
@@ -68,7 +67,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 192.0.63.225,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,188 ms
 8.34.146.235,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,188 ms
 192.0.63.225,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,189 ms
-119.8.29.112,32389,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,190 ms
 8.34.146.110,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,192 ms
 192.0.63.225,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,194 ms
 34.150.80.6,43244,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,204 ms
@@ -76,5 +74,4 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家
 46.8.78.122,8443,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,322 ms
 205.189.160.230,8878,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,329 ms
 118.141.20.85,443,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,333 ms
-192.142.4.33,2053,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,346 ms
 58.153.155.98,12345,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,583 ms
